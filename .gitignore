@@ -1,3 +1,4 @@
 *.ipynb_checkpoints
 *.npz
 *.zip
+.DS_STORE
