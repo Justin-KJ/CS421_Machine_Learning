@@ -2,3 +2,4 @@
 *.npz
 *.zip
 .DS_STORE
+released_labels/
