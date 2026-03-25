@@ -1,0 +1,5 @@
+scores
+auc: 0.6935
+precision: 0.2778
+recall: 0.1667
+f1 score: 0.2083
