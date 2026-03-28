@@ -3,3 +3,6 @@
 *.zip
 .DS_STORE
 released_labels/
+input_test_data/
+input_train_data/
+    
