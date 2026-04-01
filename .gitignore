@@ -4,3 +4,6 @@
 .DS_STORE
 released_labels/
 catboost_info/
+input_test_data/
+input_train_data/
+    
