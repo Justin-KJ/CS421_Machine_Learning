@@ -3,3 +3,4 @@
 *.zip
 .DS_STORE
 released_labels/
+catboost_info/
